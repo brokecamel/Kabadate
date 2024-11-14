@@ -35,7 +35,7 @@ export default function Home() {
             <h2 className="flex items-center h-full text-sm md:text-2xl lg:text-4xl font-conthrax">
               Welcome to
               <div className="animation font-jura">
-                <div className="first text-2xl"><div className="px-4 py-2">DATING APPpp</div></div>
+                <div className="first text-2xl"><div className="px-4 py-2">DATING APP</div></div>
                 <div className="second text-2xl"><div className="px-4 py-2">SOCIAL APP</div></div>
                 <div className="third text-2xl"><div className="px-4 py-2">SECURE</div></div>
               </div>
